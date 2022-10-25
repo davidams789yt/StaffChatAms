@@ -1,0 +1,8 @@
+name: StaffChatAms
+description: El plugin StaffChatAms
+main: me.davidams789.StaffChatAms.Main
+version: 0.0.1
+
+commands:
+  sc:
+    description: El comando StaffChat del plugin StaffChatAms
